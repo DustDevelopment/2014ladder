@@ -1,6 +1,4 @@
-# 2014 ladder livies
-
-Step 1: Download 
+Step 1: Download
 
 Step 2: Go into the files and find the file.
 
@@ -15,3 +13,4 @@ Step 6 Replace the first file that pops up with the livies i made.
 Step 7 Drag into ur server files and add to server.cfg
 
 Enjoy
+For Help Join My Discordhttps://discord.gg/tXR8V4BpHK
