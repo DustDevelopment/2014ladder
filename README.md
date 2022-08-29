@@ -14,4 +14,4 @@ Step 6 Replace the first file that pops up with the livies i made.
 
 Step 7 Drag into ur server files and add to server.cfg
 
-Ejoy
+Enjoy
